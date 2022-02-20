@@ -36,10 +36,12 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/methlegl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="methlegal" height="30" width="40" /></a>
+<a href="https://twitter.com/methlegl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="methlegal" height="30" width="40" /></a>
 <a href="https://instagram.com/methlegal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="methlegal" height="30" width="40" /></a>
- </a>
- <a href="https://methlegal.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="methlegal" height="30" width="40" />
+</a>
+<a href="https://methlegal.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="methlegal" height="30" width="40" />
+</a>
+<a href="https://methlegal.tk" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721688.png?token=exp=1645351675~hmac=79215ab3c9e20a1149e19e67cdbb336c" alt="methlegal" height="30" width="40" />
 </p>
   
 <br/>
