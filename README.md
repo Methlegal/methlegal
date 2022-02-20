@@ -37,7 +37,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/methlegl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="methlegal" height="30" width="40" /></a>
-<a href="https://instagram.com/methlegal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="methlegal" height="30" width="40" /></a>
+<a href="https://instagram.com/methlegal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="methlegal" height="30" width="40" /></a>
  </a>
  <a href="https://methlegal.tk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website-svgrepo.svg" alt="methlegal" height="30" width="40" />
 </p>
