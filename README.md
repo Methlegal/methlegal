@@ -30,7 +30,7 @@
 
 - How to reach me? **Via my Discord Account!**
 
-- I've been learning code since I was 9 years old**
+- I've been learning code since **I was 9 years old**
   
 <br/>
 
@@ -64,8 +64,3 @@
   
 </details>
   </div>
-
-
-
-<h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=methlegal&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=methlegal&cover_image=true&theme=default"/></a></div>
