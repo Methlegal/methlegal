@@ -41,7 +41,7 @@
 </a>
 <a href="https://discord.com/users/411829691285110784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="methlegal" height="30" width="40" />
 </a>
-<a href="https://methlegal.tk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="methlegal" height="30" width="40" />
+<a href="http://methlegal.tk/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="methlegal" height="30" width="40" />
 </p>
   
 <br/>
